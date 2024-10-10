@@ -1,4 +1,3 @@
-# GEN AI WOMXN HACKATHON
 ## Enclothed
 Welcome to *Enclothed*, your personal virtual fitting room accessible right from your colab! With *Enclothed*, you can upload photos to create an AI version of yourself, choose your body type and measurements, and try out clothes with confidence—all in the comfort of your own space.
 
